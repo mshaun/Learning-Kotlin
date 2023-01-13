@@ -1,5 +1,3 @@
-import java.nio.channels.InterruptedByTimeoutException
-
 fun repeatPrint(c: Char, times: Int) {
     for (i in 1 .. times) {
         print(c)
