@@ -613,8 +613,8 @@ fun main() {
 //                        //If you want to test that line of arrayList.add(0,-1) , please delete the line above arrayList.add(0,-1)
 //-------------------------------------------------------------------------------------
 
-
-    val l = IntLinkedList2() //Homework 2~5
+    //Modify the number to test Homework 2~5
+    val l = IntLinkedList2()
 
     l.println() // [0]
     //Add integer after tail five times
